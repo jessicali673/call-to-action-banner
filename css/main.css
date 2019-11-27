@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-family: "Roboto", sans-serif;
+  font-family: Roboto, sans-serif;
   line-height: 1.5;
 }
 
@@ -34,7 +34,6 @@ body {
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
-
 }
 
 .main {
@@ -43,8 +42,8 @@ body {
 }
 
 .logo {
-  width: 100%;
-  padding: 2em;
+  width: 50%;
+  padding: 1em;
 }
 
 h2 {
